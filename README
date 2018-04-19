@@ -1,1 +1,17 @@
 Nibble Swapping using C
+------------------------
+
+Compiling step
+----------------
+
+gcc nibble_swap.c
+
+
+
+Run
+-----
+./a.out
+
+
+
+
