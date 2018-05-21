@@ -1,3 +1,9 @@
+/*Author 
+ * Anish Kumar
+ *
+ *
+ */
+
 #include<stdio.h>
 int main()
 {
