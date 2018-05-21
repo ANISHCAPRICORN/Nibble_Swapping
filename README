@@ -1,5 +1,9 @@
 Nibble Swapping using C
 ------------------------
+brief:
+
+Program to swap nibbles of given value
+
 
 Compiling step
 ----------------
@@ -11,7 +15,4 @@ gcc nibble_swap.c
 Run
 -----
 ./a.out
-
-
-
 
